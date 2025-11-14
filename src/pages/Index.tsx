@@ -114,7 +114,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-12">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-5xl font-bold text-foreground mb-4 bg-gradient-to-r from-primary via-primary-glow to-accent bg-clip-text text-transparent">
-              Sentiment Analysis Dashboard
+              Que Sentiment Analysis
             </h1>
             <p className="text-lg text-muted-foreground">
               Analyze text sentiment in real-time with AI-powered insights and beautiful visualizations
